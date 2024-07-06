@@ -1,0 +1,2 @@
+# firstgit
+learning_purpose
